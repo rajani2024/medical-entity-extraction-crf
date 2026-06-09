@@ -198,9 +198,9 @@ Disease-Treatment Dictionary
 
 ---
 
-### Top Disease Entities
+### Entity Distribution
 
-![Top Diseases](reports/figures/top_diseases.png)
+![Top Diseases](reports/figures/entity_distribution.png)
 
 ---
 
