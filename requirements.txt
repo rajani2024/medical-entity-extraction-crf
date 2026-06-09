@@ -1,0 +1,8 @@
+numpy
+pandas
+spacy
+sklearn-crfsuite
+scikit-learn
+matplotlib
+seaborn
+jupyter
